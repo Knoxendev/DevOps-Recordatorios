@@ -1,0 +1,26 @@
+/* DIEGO EMILIO GARZA VILLARREAL 729103 */
+#nav-mobile li a {
+    border-radius: 50%;
+}
+.username {
+  margin-left: 0px;
+}
+.username small {
+  margin-left: 5px;
+}
+.full-w {
+    height: 48px;
+    width: 48px;
+}
+.divider-darker {
+    background-color: #9e9e9e !important;
+}
+.tomorrow {
+    border-bottom: 5px solid #f44336;
+}
+.card-panel-rems {
+    margin-top: -70px;
+}
+.fab-b {
+    margin-bottom: -74px;
+}
